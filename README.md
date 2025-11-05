@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="assets/LOGO.svg" width="180" alt="Yadegar AI SSA logo">
+</p>
 <h1 style="color:#003366; font-family:Calibri;">AI Student Scientific Association of Yadegar-e-Imam University</h1>
 
 <p style="color:white; font-family:Cambria; font-size:16px;">
@@ -77,6 +79,17 @@ Our repositories include educational resources, research codebases, and collabor
 ---
 
 <div align="center">
-<h3 style="color:#003366; font-family:Calibri;">🏛️ “Promoting knowledge, fostering innovation, and advancing Artificial Intelligence through academia.”</h3>
-<p style="color:white; font-family:Cambria;"><i>AI Student Scientific Association — Yadegar-e-Imam University, Tehran, Iran</i></p>
+
+  <h3 style="color:#003366; font-family:Calibri; display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="assets/LOGO.svg" width="40" alt="Yadegar AI SSA logo" style="vertical-align: middle;">
+    “Promoting knowledge, fostering innovation, and advancing Artificial Intelligence through academia.”
+  </h3>
+
+  <p style="color:white; font-family:Cambria;">
+    <i>AI Student Scientific Association — Yadegar-e-Imam University, Tehran, Iran</i>
+  </p>
+
+</div>
+
+
 </div>
