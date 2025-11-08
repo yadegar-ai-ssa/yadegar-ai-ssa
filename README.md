@@ -73,8 +73,8 @@ Our repositories include educational resources, research codebases, and collabor
 <p style="color:white; font-family:Cambria;">
 📧 <b>Email:</b> <a href="mailto:yadegar.ai.ssa@gmail.com" style="color:#4da6ff;">yadegar.ai.ssa@gmail.com</a><br>
 🌐 <b>Website:</b> <a href="https://yi.iau.ir/en" style="color:#4da6ff;">Yadegar-e-Imam University</a><br>
-📢 <b>Telegram Channel:</b> <a href="https://t.me/yadegar_ai" style="color:#4da6ff;">t.me/Yadegar_AI</a><br>
-👤 <b>Public Relations:</b> Mohammadreza Ahmadi (mohyahy)— <a href="https://t.me/AI_ssa_yi_iau" style="color:#4da6ff;">@AI_ssa_yi_iau</a>
+📢 <b>Telegram Channel:</b> <a href="https://t.me/yadegar_ai" style="color:#4da6ff;">@Yadegar_AI</a><br>
+👤 <b>Public Relations:</b> Mohammadreza Ahmadi (mohyahy) — <a href="https://t.me/AI_ssa_yi_iau" style="color:#4da6ff;">@AI_ssa_yi_iau</a>
 </p>
 
 
